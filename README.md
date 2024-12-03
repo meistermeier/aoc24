@@ -6,6 +6,4 @@
 > If you use this to submit your solution, you're cheating and would end on the naughty list.
 
 
-Day 1: `jbang day_1.java`
-Day 2: `jbang day_2.java`
-Day 3: `jbang day_3.java`
+Day <n>: `jbang day_<n>.java`
