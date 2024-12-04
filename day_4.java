@@ -3,13 +3,10 @@
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.io.StringReader;
 import java.nio.file.Path;
-import java.util.Arrays;
 import java.util.List;
-import java.util.regex.Pattern;
 
-import static java.lang.System.*;
+import static java.lang.System.out;
 
 public class day_4 {
 
